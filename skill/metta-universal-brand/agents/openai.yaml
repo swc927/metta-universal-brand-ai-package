@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metta Universal Brand"
+  short_description: "Create consistent, accessible Metta communications"
+  default_prompt: "Use $metta-universal-brand to create a Metta-branded communication for the stated audience and channel."

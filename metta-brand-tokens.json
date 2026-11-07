@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "meta": {
+    "name": "Metta Universal Brand Tokens",
+    "version": "0.9.0-draft",
+    "date": "2026-11-07",
+    "authority": "Consolidation draft; Community Partnership approval required for official adoption"
+  },
+  "identity": {
+    "legalName": "Metta Welfare Association",
+    "shortName": "Metta",
+    "abbreviation": "MWA",
+    "chineseName": "慈光福利协会",
+    "motto": "Compassionate love to share, Brightens hope to those we care.",
+    "primaryLogo": "assets/metta-logo-official-master.svg"
+  },
+  "color": {
+    "logo": {
+      "red": { "pantone": "187", "cmyk": [0, 91, 72, 23], "status": "approved print reference" },
+      "blue": { "pantone": "Blue 072", "cmyk": [100, 79, 0, 0], "status": "approved print reference" }
+    },
+    "interface": {
+      "primaryBlue": { "value": "#094FA5", "status": "observed website token" },
+      "deepBlue": { "value": "#064A7F", "status": "observed website token" },
+      "primaryRed": { "value": "#BF2B37", "status": "observed website token" },
+      "ink": { "value": "#14181D", "status": "observed website token" },
+      "muted": { "value": "#5B6066", "status": "observed website token" },
+      "surface": { "value": "#F4F6F8", "status": "observed website token" },
+      "white": { "value": "#FFFFFF", "status": "verified" }
+    }
+  },
+  "typography": {
+    "corporateEnglish": ["Arial", "Arial Narrow"],
+    "digitalObserved": ["Manrope", "Merriweather", "Nunito"],
+    "chineseLegacy": "文鼎中隶简",
+    "bodyMinimumPrintPt": 11,
+    "formalLetterPt": [11, 12]
+  },
+  "logoRules": {
+    "minimumPrintWidthMm": 20,
+    "recommendedMinimumDigitalWidthPx": 120,
+    "preserveAspectRatio": true,
+    "externalUseRequiresApproval": true,
+    "approvalOwner": "Community Partnership Department"
+  },
+  "accessibility": {
+    "standard": "WCAG 2.2 AA",
+    "normalTextContrast": 4.5,
+    "largeTextContrast": 3.0,
+    "textResizePercent": 200,
+    "colourAloneProhibited": true
+  },
+  "locale": {
+    "english": "en-SG",
+    "englishStyle": "Singapore/British English",
+    "chinese": "zh-Hans-SG"
+  },
+  "governance": {
+    "humanApprovalBeforePublish": true,
+    "aiMayApprove": false,
+    "aiMayInventFacts": false,
+    "aiMayAlterLogo": false
+  }
+}
