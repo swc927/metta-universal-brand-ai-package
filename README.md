@@ -7,15 +7,17 @@ The package does not replace Management Committee policies or Community Partners
 ## Start here
 
 1. Open [`START_HERE.md`](START_HERE.md) and choose what you want to do.
-2. Use [`EMPLOYEE_QUICK_GUIDE.md`](EMPLOYEE_QUICK_GUIDE.md) for daily work.
-3. Consult `METTA_UNIVERSAL_BRAND_GUIDE.md` for the complete standard.
-4. Use the examples in `templates/` instead of starting from a blank prompt.
-5. Send logo exceptions, partner uses and final public artwork to Community Partnership for approval.
+2. If you are new to AI, copy a guided prompt from [`BEGINNER_PROMPTS.md`](BEGINNER_PROMPTS.md).
+3. Use [`EMPLOYEE_QUICK_GUIDE.md`](EMPLOYEE_QUICK_GUIDE.md) for daily work.
+4. Consult `METTA_UNIVERSAL_BRAND_GUIDE.md` for the complete standard.
+5. Use the examples in `templates/` instead of starting from a blank prompt.
+6. Send logo exceptions, partner uses and final public artwork to Community Partnership for approval.
 
 ## Package contents
 
 - `METTA_UNIVERSAL_BRAND_GUIDE.md` - canonical human-readable standard.
 - `START_HERE.md` - beginner route for common tasks.
+- `BEGINNER_PROMPTS.md` - copy-and-paste guided prompts requiring no prompting experience.
 - `EMPLOYEE_QUICK_GUIDE.md` - compact daily-use rules and prompt.
 - `PLATFORM_SETUP.md` - setup for ChatGPT, Claude, Gemini, Codex and Copilot.
 - `AI_PROMPT_PACK.md` - reusable prompts and platform setup instructions.
@@ -39,7 +41,7 @@ The package does not replace Management Committee policies or Community Partners
 
 ## Release status
 
-Version 0.10 draft, updated 10 November 2026. Community Partnership should confirm the open decisions in `SOURCE_REGISTER.md` before this is declared an organisation-wide official standard.
+Version 0.11 draft, updated 10 November 2026. Community Partnership should confirm the open decisions in `SOURCE_REGISTER.md` before this is declared an organisation-wide official standard.
 
 ## Usage and rights
 

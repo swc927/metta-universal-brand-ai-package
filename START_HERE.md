@@ -2,6 +2,10 @@
 
 This package helps you create or review Metta communications. It does not approve or publish work for you.
 
+## I have never used AI before
+
+Open [`BEGINNER_PROMPTS.md`](BEGINNER_PROMPTS.md). Copy **“I do not know where to start”** and let the AI ask you one simple question at a time. You may answer **I do not know**; the AI should mark missing information instead of guessing.
+
 ## I want AI to create something
 
 1. Open the AI tool approved for your work.
@@ -22,6 +26,8 @@ Do not invent missing information. Return the complete draft, facts requiring ve
 ```
 
 Start with a suitable file in [`templates/`](templates/README.md) when available.
+
+If you are unsure how to describe the task, use the ready-made email, poster, social-media, bilingual and review prompts in [`BEGINNER_PROMPTS.md`](BEGINNER_PROMPTS.md).
 
 ## I want to check existing work
 

@@ -9,7 +9,7 @@ Create accurate, consistent and accessible Metta materials while preserving huma
 
 ## Required reference
 
-Read [references/metta-universal-brand-guide.md](references/metta-universal-brand-guide.md) before drafting or reviewing any Metta-branded output. Use [references/employee-quick-guide.md](references/employee-quick-guide.md) for a beginner or simple daily-use request. Use [references/source-register.md](references/source-register.md) when a fact, status, terminology choice, colour, tagline or centre name is uncertain.
+Read [references/metta-universal-brand-guide.md](references/metta-universal-brand-guide.md) before drafting or reviewing any Metta-branded output. Use [references/employee-quick-guide.md](references/employee-quick-guide.md) for a simple daily-use request. When the user is unfamiliar with prompting, unsure what to ask for or asks for beginner guidance, use [references/beginner-prompts.md](references/beginner-prompts.md) and ask one short question at a time. Use [references/source-register.md](references/source-register.md) when a fact, status, terminology choice, colour, tagline or centre name is uncertain.
 
 ## Working rules
 

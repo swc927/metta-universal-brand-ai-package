@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.11 draft - 10 November 2026
+
+- Added a copy-and-paste beginner prompt guide for employees with no prompting experience.
+- Added a guided mode that asks one simple question at a time and accepts “I do not know”.
+- Added task prompts for email, announcements, posters, social media, bilingual content, reviews and prompt improvement.
+- Linked the beginner route from the start page, employee guide, README, prompt pack and AI skill.
+
 ## 0.10 draft - 10 November 2026
 
 - Added a beginner start page and employee quick guide.

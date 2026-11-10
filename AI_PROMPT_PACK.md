@@ -1,5 +1,7 @@
 # Metta AI Prompt Pack
 
+Employees who are unfamiliar with prompting should begin with [`BEGINNER_PROMPTS.md`](BEGINNER_PROMPTS.md). It provides guided prompts that ask one simple question at a time and mark unknown facts instead of guessing.
+
 ## Universal system instruction
 
 Copy the block below into a project instruction, custom GPT, Claude Project, Gemini Gem, Copilot repository instruction or another AI workspace. Attach `METTA_UNIVERSAL_BRAND_GUIDE.md` and the approved logo assets.

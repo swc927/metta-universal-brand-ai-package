@@ -15,6 +15,7 @@ ROOT = Path(__file__).resolve().parents[1]
 REQUIRED = [
     "README.md",
     "START_HERE.md",
+    "BEGINNER_PROMPTS.md",
     "EMPLOYEE_QUICK_GUIDE.md",
     "PLATFORM_SETUP.md",
     "METTA_UNIVERSAL_BRAND_GUIDE.md",
@@ -67,8 +68,8 @@ for relative in REQUIRED:
         fail(f"required file missing: {relative}")
 
 tokens = json.loads((ROOT / "metta-brand-tokens.json").read_text(encoding="utf-8"))
-if tokens["meta"]["version"] != "0.10.0-draft":
-    fail("token version is not 0.10.0-draft")
+if tokens["meta"]["version"] != "0.11.0-draft":
+    fail("token version is not 0.11.0-draft")
 if tokens["logoRules"].get("bottomPlacementProhibited") is not False:
     fail("logo bottom-placement rule is missing or incorrect")
 
@@ -76,6 +77,7 @@ copies = [
     ("METTA_UNIVERSAL_BRAND_GUIDE.md", "skill/metta-universal-brand/references/metta-universal-brand-guide.md"),
     ("SOURCE_REGISTER.md", "skill/metta-universal-brand/references/source-register.md"),
     ("EMPLOYEE_QUICK_GUIDE.md", "skill/metta-universal-brand/references/employee-quick-guide.md"),
+    ("BEGINNER_PROMPTS.md", "skill/metta-universal-brand/references/beginner-prompts.md"),
     ("assets/metta-logo-official-master.svg", "skill/metta-universal-brand/assets/metta-logo-official-master.svg"),
     ("assets/metta-logo-official-master.png", "skill/metta-universal-brand/assets/metta-logo-official-master.png"),
 ]

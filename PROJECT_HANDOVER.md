@@ -2,12 +2,12 @@
 
 ## Purpose and current state
 
-This project consolidates Metta’s identity, language, universal-design and AI-use guidance into a shareable Markdown-first package. Version 0.10 is a researched draft ready for Community Partnership review, not an adopted organisation-wide policy. The recovery repository is `https://github.com/swc927/metta-universal-brand-ai-package`, public, branch `main`.
+This project consolidates Metta’s identity, language, universal-design and AI-use guidance into a shareable Markdown-first package. Version 0.11 is a researched draft ready for Community Partnership review, not an adopted organisation-wide policy. The recovery repository is `https://github.com/swc927/metta-universal-brand-ai-package`, public, branch `main`.
 
 ## Architecture
 
 - `METTA_UNIVERSAL_BRAND_GUIDE.md` is the canonical human standard.
-- `START_HERE.md` and `EMPLOYEE_QUICK_GUIDE.md` provide beginner and daily-use routes.
+- `START_HERE.md`, `BEGINNER_PROMPTS.md` and `EMPLOYEE_QUICK_GUIDE.md` provide guided beginner and daily-use routes.
 - `PLATFORM_SETUP.md` explains how each supported AI environment consumes the package.
 - `metta-brand-tokens.json` provides machine-readable values and status labels.
 - `AI_PROMPT_PACK.md` provides reusable prompts.
@@ -30,6 +30,7 @@ This project consolidates Metta’s identity, language, universal-design and AI-
 - Validated JSON syntax, internal links/paths and logo checksums.
 - Clarified, based on a complete search of the reviewed identity sources, that no blanket rule prohibits bottom or footer logo placement.
 - Added employee quick-start materials, platform setup and six practical templates.
+- Added copy-and-paste beginner prompts that ask one simple question at a time and preserve unknown facts as verification items.
 - Added page-level source evidence and deterministic continuous validation.
 
 ## Important decisions
@@ -49,9 +50,9 @@ See the open decisions in `SOURCE_REGISTER.md`. Community Partnership review is 
 
 1. Confirm the seven open decisions with Community Partnership and relevant service owners.
 2. Replace draft status with approval metadata and a review date.
-3. Test the start page, quick guide and templates with staff from at least one centre in each service pillar.
+3. Test the start page, beginner prompts, quick guide and templates with staff from at least one centre in each service pillar.
 4. Publish controlled logo assets and bilingual glossary in a stable internal location.
-5. Publish a `v0.10-draft` release, then after Community Partnership approval tag version 1.0 and record the approval date and review owner.
+5. Publish a `v0.11-draft` release, then after Community Partnership approval tag version 1.0 and record the approval date and review owner.
 
 ## Resume prompt
 

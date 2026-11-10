@@ -2,6 +2,8 @@
 
 Use this page for daily communication work. Refer to `METTA_UNIVERSAL_BRAND_GUIDE.md` when a task is sensitive, unusual or public-facing.
 
+New to AI? Open `BEGINNER_PROMPTS.md`. It lets the AI ask one simple question at a time and accepts **I do not know** as an answer.
+
 ## Identity
 
 - First public reference: **Metta Welfare Association (Metta)**.

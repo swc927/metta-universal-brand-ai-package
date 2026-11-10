@@ -1,6 +1,6 @@
 # Metta Universal Brand Guide
 
-- Version: 0.10 draft
+- Version: 0.11 draft
 - Prepared: 7 November 2026
 - Last updated: 10 November 2026
 - Owner for review: Community Partnership Department
