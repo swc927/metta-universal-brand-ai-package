@@ -2,6 +2,20 @@
 
 This package helps Metta Welfare Association headquarters, centres, programmes, schools and approved partners create consistent, accessible communications.
 
+## Install the public brand skill
+
+**[Start here: one-link installation and beginner prompt](INSTALL.md)**
+
+In a compatible tool such as Codex, paste:
+
+```text
+Install the skill from https://github.com/swc927/metta-universal-brand-ai-package/tree/main/skill/metta-universal-brand . Then use $metta-universal-brand to check setup and guide me one question at a time.
+```
+
+[Download skill ZIP](https://github.com/swc927/metta-universal-brand-ai-package/releases/latest/download/metta-universal-brand-skill.zip) · [Download full brand package](https://github.com/swc927/metta-universal-brand-ai-package/releases/latest/download/metta-universal-brand-ai-package.zip)
+
+Ordinary ChatGPT does not install skills from a link; [INSTALL.md](INSTALL.md) gives its reference-file route. This public package contains **no internal employee handbook**.
+
 The package does not replace Management Committee policies or Community Partnership approval. It translates the current approved corporate rules, recent Metta practice and external requirements into reusable guidance for people and AI tools.
 
 ## Start here

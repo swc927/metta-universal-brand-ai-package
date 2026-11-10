@@ -2,6 +2,8 @@
 
 This package helps you create or review Metta communications. It does not approve or publish work for you.
 
+**Installing for the first time?** Open [INSTALL.md](INSTALL.md) for one exact skill link, a ready-to-paste installation prompt and a brand-only ZIP. Use the manual route there if your AI tool does not support skills.
+
 ## I have never used AI before
 
 Open [`BEGINNER_PROMPTS.md`](BEGINNER_PROMPTS.md). Copy **“I do not know where to start”** and let the AI ask you one simple question at a time. You may answer **I do not know**; the AI should mark missing information instead of guessing.

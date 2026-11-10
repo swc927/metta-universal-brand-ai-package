@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED = [
     "README.md",
+    "INSTALL.md",
     "START_HERE.md",
     "BEGINNER_PROMPTS.md",
     "EMPLOYEE_QUICK_GUIDE.md",

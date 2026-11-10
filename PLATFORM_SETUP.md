@@ -26,6 +26,8 @@ Pasting only the GitHub URL may let ChatGPT read the public repository, but it d
 
 ## Codex-compatible skill
 
+For a beginner-friendly link and copy-and-paste installation prompt, use [INSTALL.md](INSTALL.md). The complete skill can be installed from the public GitHub folder using a supported installer. It includes its own references and official assets, so individual uploads are not required after installation.
+
 Copy the complete `skill/metta-universal-brand/` directory to the environment’s skills directory. Keep the folder name unchanged. Invoke it with:
 
 ```text

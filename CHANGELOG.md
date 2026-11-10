@@ -2,6 +2,8 @@
 
 ## 0.11 draft - 10 November 2026
 
+- Added one-link public skill installation guidance, stable release ZIP download links and a manual route for tools without skills. No internal handbook is included.
+
 - Added a copy-and-paste beginner prompt guide for employees with no prompting experience.
 - Added a guided mode that asks one simple question at a time and accepts “I do not know”.
 - Added task prompts for email, announcements, posters, social media, bilingual content, reviews and prompt improvement.

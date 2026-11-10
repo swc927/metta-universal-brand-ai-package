@@ -6,6 +6,8 @@ This project consolidates Metta’s identity, language, universal-design and AI-
 
 ## Architecture
 
+- `INSTALL.md` is the public beginner installation entry point. Stable brand-only ZIP links use GitHub's latest-release download route. Compatible installers can use the exact public skill folder link; ordinary ChatGPT uses the manual reference-file route.
+
 - `METTA_UNIVERSAL_BRAND_GUIDE.md` is the canonical human standard.
 - `START_HERE.md`, `BEGINNER_PROMPTS.md` and `EMPLOYEE_QUICK_GUIDE.md` provide guided beginner and daily-use routes.
 - `PLATFORM_SETUP.md` explains how each supported AI environment consumes the package.
