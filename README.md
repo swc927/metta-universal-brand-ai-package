@@ -6,19 +6,25 @@ The package does not replace Management Committee policies or Community Partners
 
 ## Start here
 
-1. Read `METTA_UNIVERSAL_BRAND_GUIDE.md`.
-2. Use `AI_PROMPT_PACK.md` when prompting ChatGPT, Claude, Gemini, Copilot or another AI assistant.
-3. Use `metta-brand-tokens.json` in websites, design systems or automated templates.
-4. Install `skill/metta-universal-brand/` as a Codex-compatible skill when needed.
+1. Open [`START_HERE.md`](START_HERE.md) and choose what you want to do.
+2. Use [`EMPLOYEE_QUICK_GUIDE.md`](EMPLOYEE_QUICK_GUIDE.md) for daily work.
+3. Consult `METTA_UNIVERSAL_BRAND_GUIDE.md` for the complete standard.
+4. Use the examples in `templates/` instead of starting from a blank prompt.
 5. Send logo exceptions, partner uses and final public artwork to Community Partnership for approval.
 
 ## Package contents
 
 - `METTA_UNIVERSAL_BRAND_GUIDE.md` - canonical human-readable standard.
+- `START_HERE.md` - beginner route for common tasks.
+- `EMPLOYEE_QUICK_GUIDE.md` - compact daily-use rules and prompt.
+- `PLATFORM_SETUP.md` - setup for ChatGPT, Claude, Gemini, Codex and Copilot.
 - `AI_PROMPT_PACK.md` - reusable prompts and platform setup instructions.
 - `metta-brand-tokens.json` - machine-readable identity and accessibility tokens.
+- `templates/` - ready-to-use briefs, prompts and approval checks.
 - `SOURCE_REGISTER.md` - evidence, status and unresolved questions.
 - `PROJECT_HANDOVER.md` - maintenance and next-action record.
+- `CHANGELOG.md` - version history.
+- `scripts/validate_package.py` - deterministic package validation.
 - `skill/metta-universal-brand/` - self-contained Codex/OpenAI skill.
 - `adapters/` - instruction files for other AI assistants.
 - `assets/` - approved logo masters copied from the current local Metta master set.
@@ -33,7 +39,7 @@ The package does not replace Management Committee policies or Community Partners
 
 ## Release status
 
-Draft working standard, 7 November 2026. Community Partnership should confirm the open decisions in `SOURCE_REGISTER.md` before this is declared an organisation-wide official standard.
+Version 0.10 draft, updated 10 November 2026. Community Partnership should confirm the open decisions in `SOURCE_REGISTER.md` before this is declared an organisation-wide official standard.
 
 ## Usage and rights
 

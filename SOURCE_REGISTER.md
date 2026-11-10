@@ -13,6 +13,22 @@
 | Official Metta logo master set dated November 2026 | Current vector geometry and embedded artwork colours | Approved asset source copied into this package |
 | Live Metta website reviewed 7 November 2026 | Current public content, service presentation, Manrope/Merriweather/Nunito and implementation colours | Current public/observed implementation |
 
+## Page-level evidence index
+
+PDF page numbers below refer to the PDF file sequence, not necessarily the printed page label.
+
+| Rule or finding | Source location | Evidence status |
+|---|---|---|
+| Communication principles, external communication and brand governance | Communication and Publicity Handbook, PDF pages 3-5 | Approved 30 August 2024 |
+| Arial/Arial Narrow, Pantone 187 and Pantone Blue 072 | Communication and Publicity Handbook, PDF page 6 | Approved 30 August 2024 |
+| Corporate-logo construction and correct use | Communication and Publicity Handbook, PDF page 7 | Approved 30 August 2024 |
+| Detailed logo uses, 20 mm print minimum and no distortion | Corporate Identity Manual, PDF pages 8-12 | Historical approved detail, used where consistent with 2024 handbook |
+| Clear-space method | Corporate Identity Manual, PDF page 13 | Historical approved detail |
+| Publicity request and final-artwork workflow | Corporate Identity Manual, PDF page 19 | Historical operational detail |
+| Media, photo-taking, confidentiality and volunteer conduct | Volunteer Handbook revised 22 April 2026, PDF pages 8-9 | Current operational reference |
+| Motto, vision, mission, values and current service architecture | Annual Report 2025/2026, PDF pages 3-4 | Current official publication |
+| No blanket prohibition on bottom/footer logo placement | No reviewed handbook page states such a prohibition; manuals regulate composition, minimum size, clear space, colour and distortion | Verified absence in reviewed sources; bottom-placement permission is a consolidation clarification, not a quoted legacy rule |
+
 ## Online authoritative sources
 
 - [Metta Welfare Association](https://www.metta.org.sg/)

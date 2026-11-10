@@ -2,8 +2,8 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "meta": {
     "name": "Metta Universal Brand Tokens",
-    "version": "0.9.0-draft",
-    "date": "2026-11-07",
+    "version": "0.10.0-draft",
+    "date": "2026-11-10",
     "authority": "Consolidation draft; Community Partnership approval required for official adoption"
   },
   "identity": {
@@ -40,6 +40,8 @@
     "minimumPrintWidthMm": 20,
     "recommendedMinimumDigitalWidthPx": 120,
     "preserveAspectRatio": true,
+    "bottomPlacementProhibited": false,
+    "placementRule": "Use a clear stable position that follows the approved template; bottom or footer placement is acceptable when size, clear space, contrast and legibility requirements are met.",
     "externalUseRequiresApproval": true,
     "approvalOwner": "Community Partnership Department"
   },

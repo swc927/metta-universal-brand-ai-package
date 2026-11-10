@@ -2,17 +2,21 @@
 
 ## Purpose and current state
 
-This project consolidates Metta’s identity, language, universal-design and AI-use guidance into a shareable Markdown-first package. Version 0.9 is a researched draft ready for Community Partnership review, not an adopted organisation-wide policy. The recovery repository is `https://github.com/swc927/metta-universal-brand-ai-package`, public, branch `main`.
+This project consolidates Metta’s identity, language, universal-design and AI-use guidance into a shareable Markdown-first package. Version 0.10 is a researched draft ready for Community Partnership review, not an adopted organisation-wide policy. The recovery repository is `https://github.com/swc927/metta-universal-brand-ai-package`, public, branch `main`.
 
 ## Architecture
 
 - `METTA_UNIVERSAL_BRAND_GUIDE.md` is the canonical human standard.
+- `START_HERE.md` and `EMPLOYEE_QUICK_GUIDE.md` provide beginner and daily-use routes.
+- `PLATFORM_SETUP.md` explains how each supported AI environment consumes the package.
 - `metta-brand-tokens.json` provides machine-readable values and status labels.
 - `AI_PROMPT_PACK.md` provides reusable prompts.
+- `templates/` contains practical communication and approval templates.
 - `skill/metta-universal-brand/` is the Codex/OpenAI skill package.
 - `adapters/` contains minimal instructions for other AI platforms.
 - `assets/` contains current Metta logo masters.
 - `SOURCE_REGISTER.md` records evidence and unresolved decisions.
+- `scripts/validate_package.py` and `.github/workflows/validate.yml` protect integrity.
 
 ## Completed verification
 
@@ -24,6 +28,9 @@ This project consolidates Metta’s identity, language, universal-design and AI-
 - Reviewed WCAG 2.2, PDPC photography guidance and Charity Portal communication/fundraising requirements.
 - Validated the Codex skill structure with the bundled skill validator.
 - Validated JSON syntax, internal links/paths and logo checksums.
+- Clarified, based on a complete search of the reviewed identity sources, that no blanket rule prohibits bottom or footer logo placement.
+- Added employee quick-start materials, platform setup and six practical templates.
+- Added page-level source evidence and deterministic continuous validation.
 
 ## Important decisions
 
@@ -32,6 +39,7 @@ This project consolidates Metta’s identity, language, universal-design and AI-
 - The legacy tagline is not declared universally current pending owner confirmation.
 - AI is draft-only and cannot approve, publish, send, invent facts or alter the logo.
 - The package contains no confidential HR provisions, client data, donor data, credentials or session material.
+- Bottom/footer logo placement is permitted when the complete logo remains legible, meets clear-space and minimum-size requirements and follows the approved template.
 
 ## Known issues
 
@@ -41,9 +49,9 @@ See the open decisions in `SOURCE_REGISTER.md`. Community Partnership review is 
 
 1. Confirm the seven open decisions with Community Partnership and relevant service owners.
 2. Replace draft status with approval metadata and a review date.
-3. Test templates with staff from at least one centre in each service pillar.
+3. Test the start page, quick guide and templates with staff from at least one centre in each service pillar.
 4. Publish controlled logo assets and bilingual glossary in a stable internal location.
-5. After Community Partnership approval, tag a version 1.0 release and record the approval date and review owner.
+5. Publish a `v0.10-draft` release, then after Community Partnership approval tag version 1.0 and record the approval date and review owner.
 
 ## Resume prompt
 

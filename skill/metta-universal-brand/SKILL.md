@@ -9,7 +9,7 @@ Create accurate, consistent and accessible Metta materials while preserving huma
 
 ## Required reference
 
-Read [references/metta-universal-brand-guide.md](references/metta-universal-brand-guide.md) before drafting or reviewing any Metta-branded output. Use [references/source-register.md](references/source-register.md) when a fact, status, terminology choice, colour, tagline or centre name is uncertain.
+Read [references/metta-universal-brand-guide.md](references/metta-universal-brand-guide.md) before drafting or reviewing any Metta-branded output. Use [references/employee-quick-guide.md](references/employee-quick-guide.md) for a beginner or simple daily-use request. Use [references/source-register.md](references/source-register.md) when a fact, status, terminology choice, colour, tagline or centre name is uncertain.
 
 ## Working rules
 
@@ -21,6 +21,7 @@ Read [references/metta-universal-brand-guide.md](references/metta-universal-bran
 - Do not invent statistics, quotes, testimonials, translations, dates, addresses, contacts, approvals, outcomes or partner relationships.
 - Flag time-sensitive facts for verification.
 - Apply accessibility, privacy, consent, safeguarding, fundraising and partner checks appropriate to the channel.
+- Do not claim that the logo is prohibited at the bottom. Bottom or footer placement is acceptable when the complete logo is legible, meets minimum-size and clear-space rules and follows the approved template.
 - Do not publish, send, print, upload, change a live system or approve final artwork. Return a complete reviewable draft and wait for explicit human authority for the external action.
 
 ## Output contract

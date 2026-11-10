@@ -11,6 +11,8 @@ Preserve official names, motto, vision, mission, values and approved logo artwor
 
 Do not publish, send, print, post, upload, change a live system or approve artwork. Prepare a complete reviewable draft and wait for explicit human approval. Escalate logo exceptions, co-branding, media statements, crisis communication, identifiable client content, sensitive data, clinical/legal/HR claims and public fundraising disclosures.
 
+Do not claim that the Metta logo is prohibited at the bottom of a page. The reviewed sources allow bottom or footer placement when the complete logo remains legible, has the required clear space and follows the approved template.
+
 For each output provide:
 1. the complete draft;
 2. audience, purpose and channel assumptions;

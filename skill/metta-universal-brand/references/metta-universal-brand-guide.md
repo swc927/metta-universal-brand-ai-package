@@ -1,8 +1,10 @@
 # Metta Universal Brand Guide
 
-- Version: 0.9 draft
+- Version: 0.10 draft
 - Prepared: 7 November 2026
+- Last updated: 10 November 2026
 - Owner for review: Community Partnership Department
+- Proposed review cycle: annually and whenever an approved identity rule changes
 - Applies to: Metta Welfare Association headquarters, centres, programmes, schools, staff, volunteers, vendors and approved partners
 
 ## 1 Purpose and authority
@@ -126,7 +128,8 @@ The vector is preferred for print, large-format work and professional design. Th
 - Use the full-colour master on white or a quiet, very light background.
 - Use an approved monochrome or reversed master on dark or visually complex backgrounds.
 - Maintain strong visual separation from text, photos, borders and partner marks.
-- Place the logo once in a clear, stable position unless a template requires a repeated footer mark.
+- Place the logo once in a clear, stable position unless a template requires a repeated header or footer mark.
+- **Page placement clarification:** the reviewed approved sources do not prohibit placing the complete Metta logo at the bottom or in a footer. Bottom placement is acceptable when the logo remains legible, meets minimum-size and clear-space rules, has suitable contrast and follows the approved template. A specific controlled template may still require another position.
 - Obtain Community Partnership approval for external organisations, co-branding, sponsorship placement, special formats and exceptions.
 
 ### 4.5 Never do this
@@ -400,6 +403,7 @@ Every AI task must:
 - [ ] Correct organisation, pillar, centre and programme names.
 - [ ] Current date, location, contact, eligibility, price and operating status.
 - [ ] Approved logo master, proportions, minimum size and clear space.
+- [ ] Logo position follows the approved template; bottom placement has not been rejected solely because it is at the bottom.
 - [ ] Pantone/CMYK used correctly for print; accessible colour pairs used for text.
 - [ ] Arial-based corporate typography or an approved channel treatment.
 - [ ] Respectful, person-centred, plain language.
@@ -422,3 +426,12 @@ Every AI task must:
 - [Singapore Charity Portal fund-raiser duties](https://www.charities.gov.sg/Pages/Fund-Raising/Fund-Raisers-Duties-and-Obligations.aspx)
 - [Singapore Charity Governance Code](https://www.charities.gov.sg/Pages/Charities-and-IPCs/Manage-Your-Charity/Code-of-Governance-for-Charities-IPCs.aspx)
 - [PDPC advisory guidelines on selected topics](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/AG-on-Selected-Topics/Advisory-Guidelines-on-PDPA-for-Selected-Topics-310322.ashx?la=en)
+
+## 17 Ownership and maintenance
+
+- **Policy and identity owner:** Community Partnership Department, subject to Management Committee-approved policy.
+- **Content owners:** the responsible centre, programme or corporate function for its facts and operations.
+- **Specialist reviewers:** clinical, safeguarding, legal, finance, fundraising, HR and data-protection owners where relevant.
+- **Bilingual review:** a competent human reviewer using the controlled Metta terminology source.
+- **Review trigger:** annual review, approved policy change, identity-asset change, service-directory change, material regulatory change or documented recurring misuse.
+- **Version control:** record changes in `CHANGELOG.md`; validate the package before every release; do not edit only the skill copy of the guide.
